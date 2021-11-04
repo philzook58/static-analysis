@@ -829,6 +829,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 <h2 id="binary">Binaries</h2>
 
 - [angr](https://github.com/angr/angr) - Binary code analysis tool that also supports symbolic execution.
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - The Carnegie Mellon University Binary Analysis Platform (CMU BAP) is a suite of utilities and libraries for the analysis of machine code.
 - [binbloom](https://github.com/quarkslab/binbloom) - Analyzes a raw binary firmware and determines features like endianness or the loading address.  The tool is compatible with all architectures.
 Loading address: binbloom can parse a raw binary firmware and determine its loading address. Endianness: binbloom can use heuristics to determine the endianness of a firmware. UDS Database: binbloom can parse a raw binary firmware and check if it contains an array containing UDS command IDs.
 - [BinSkim](https://github.com/Microsoft/binskim) - A binary static analysis tool that provides security and correctness results for Windows portable executables.
